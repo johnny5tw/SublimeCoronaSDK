@@ -953,44 +953,44 @@
             "trigger": "in"
         },
         {
-            "contents": "io:close(${1:file})", 
-            "trigger": "io:close()"
+            "contents": "io.close(${1:file})", 
+            "trigger": "io.close()"
         },
         {
-            "contents": "io:flush($0)", 
-            "trigger": "io:flush()"
+            "contents": "io.flush($0)", 
+            "trigger": "io.flush()"
         },
         {
-            "contents": "io:input(${1:file})", 
-            "trigger": "io:input()"
+            "contents": "io.input(${1:file})", 
+            "trigger": "io.input()"
         },
         {
-            "contents": "io:lines(${1:file})", 
-            "trigger": "io:lines()"
+            "contents": "io.lines(${1:file})", 
+            "trigger": "io.lines()"
         },
         {
-            "contents": "io:open(${1:filePath}, ${2:mode})", 
-            "trigger": "io:open()"
+            "contents": "io.open(${1:filePath}, ${2:mode})", 
+            "trigger": "io.open()"
         },
         {
-            "contents": "io:ouput(${1:file})", 
-            "trigger": "io:output()"
+            "contents": "io.ouput(${1:file})", 
+            "trigger": "io.output()"
         },
         {
-            "contents": "io:read(${1:fmt1}, ${2:fmt2})", 
-            "trigger": "io:read()"
+            "contents": "io.read(${1:fmt1}, ${2:fmt2})", 
+            "trigger": "io.read()"
         },
         {
-            "contents": "io:tmpfile($0)", 
-            "trigger": "io:tmpfile()"
+            "contents": "io.tmpfile($0)", 
+            "trigger": "io.tmpfile()"
         },
         {
-            "contents": "io:type(${1:object})", 
-            "trigger": "io:type()"
+            "contents": "io.type(${1:object})", 
+            "trigger": "io.type()"
         },
         {
-            "contents": "io:write(${1:arg1}, ${2:arg2})", 
-            "trigger": "io:write()"
+            "contents": "io.write(${1:arg1}, ${2:arg2})", 
+            "trigger": "io.write()"
         },
         {
             "contents": "json.encode(${1:table})", 
