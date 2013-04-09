@@ -1,6 +1,12 @@
 Description
 ===========
 
+!!UPDATED CoronaSDK.sublime-build!!
+Use the updated CoronaSDK.sublime-build if you have updated to CoronaSDK Version 2013.1076
+
+Thanks to Renê Schneider for fixing the issue.
+===========!!===========
+
 This is work in progress and managed in my free time, I will uppdate the completions, API and code etc when I have some time to spare. Many hours have been spent on making this so enjoy....
 
 -- Known issues --
